@@ -1,0 +1,42 @@
+Elon Musk
+Social
+Broadband
+Bashundhara
+9
+10.0
+Larry Page
+News
+WiFi
+Mirpur
+15
+13.0
+Steve Jobs
+Entertainment
+3G
+Uttara
+16
+14.0
+Jeff Bezos
+Work
+4G
+Dhanmondi
+24
+4.0
+Erlich Bachman
+Academic
+Others
+Banani
+27
+19.0
+Ahmed Rogers
+Others
+Others
+Others
+34
+13.0
+Tony Stark
+News
+WiFi
+Mirpur
+13
+16.0

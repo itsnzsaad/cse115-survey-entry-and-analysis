@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1556817964 source:d:\lab\c\cse115\project_final\191_g3_sec5_survey_entry_&_analysis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
